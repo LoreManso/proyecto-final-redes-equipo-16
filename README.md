@@ -2,10 +2,12 @@
 # Proyecto Final - Programación de Redes
 
 ## Integrantes
-- Dilma Lorena Manso Osorio
-- Luis Alberto Sánchez Cubillos
+
+- Dilma Lorena Manso Osorio - Número de lista: 16
+- Luis Alberto Sánchez Cubillos - Número de lista: 25
 
 ## Número del equipo
+
 N = 16
 
 Encabezado de autenticación:
